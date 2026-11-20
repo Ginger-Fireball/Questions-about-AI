@@ -1,0 +1,100 @@
+---
+title: "Questions around the use of AI"
+lang: da
+format:
+  html:
+    code-fold: false
+    code-tools: true
+    embed-resources: false
+---
+
+## Introduktion
+
+For the following questions we are going to i would like for you to answer within these categorys chose the one that you resmbels your use the most.
+when using AI what work do you let it do 
+
+1. Flags errors (commas, spelling), no correction
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification 
+2. Suggests a correction
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification 
+3. Rewrites a sentence sentence
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification 
+4. Rewrites a student’s paragraph/longer text
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification 
+5. Generates a paragraph from notes
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification 
+6. Generates a paragraph from a source
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification
+7. Do not use AI for this  
+
+There will be multiple questions where these options will be used they ere therefore introduced here so you do not have to reread them evey time 
+
+### Question 1
+Students write the theory section of their semester project. Definitions, equations and theorems are reproduced from textbooks — the explanatory text is their own. at what level do you use AI to write the explanatory text.
+
+### Question 2
+Students often write some sort of application section in their project. At what level do you use AI to write the application text.
+
+### Question 3 
+Students are often reqired to write some code for thir project.  At what level do you use AI to write the code.
+
+### Question 4
+Students write a proof or multi-step derivation in their project or hand-in, where each logical step and edge case needs to be justified. At what level do you use AI when drafting or polishing the proof?
+
+### Question 5
+Students generate plots, numerical approximations, or simulation results in their project and explain what the numbers mean mathematically. At what level do you use AI to help write that interpretation?
+
+### Question 6
+Students introduce why a problem matters or how it connects to prior work in their project introduction. At what level do you use AI to draft that framing?
+
+
+## Second round of questions
+For more math related questions when doing assignments, excersises after the lecture or math calculations in the project, at what level do you use AI 
+
+1. AI identifying an error.
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification 
+2. AI identifys any errors and suggest the appropriate method
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification 
+3. AI provides the next step, after which the students continue independently.
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification 
+4. AI produces the complete calculation.
+    - [ ] you check the output against a source
+    - [ ] you accept the output without verification 
+
+
+### Question 1
+Students solve an equation in their project. The aim is not only the solution, but showing they understand the method.
+
+### Question 2
+Students have excercises after a lecture and need to show that a condtion is upheld, how much AI would you say is okay
+
+### Question 3
+After a lecture introduces a dense new concept (such as uniform convergence, compactness, or a new algebraic structure), how much do you rely on AI to build intuition before tackling exercises?
+
+### Question 4
+When a calculation or script gives an unexpected result, how much do you use AI to pinpoint where the reasoning went wrong versus telling you the fix?
+
+### Question 5
+Think about tasks where you will not have AI available (such as written exams or oral defenses). How often do you use AI on exercises in a way that still prepares you to solve similar problems on your own?
+
+## Questions not in same form as earlier
+
+### Question ?.
+What do you use the different AI's for within your study?
+
+1. Understanding mathematical properties
+2. coding 
+3. writing/rewriting text, finding text errors, and or akward text.
+4. asking quick questions
+5. used for making better prompts that will be used in another AI or a higher level within the given AI.
+6. Other?
+\end{itemize}
